@@ -1,0 +1,3 @@
+[console_scripts]
+PyBeacon = PyBeacon.PyBeacon:main
+

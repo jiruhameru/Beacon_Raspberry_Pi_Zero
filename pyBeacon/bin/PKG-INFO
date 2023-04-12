@@ -1,0 +1,31 @@
+Metadata-Version: 1.1
+Name: PyBeacon
+Version: 0.3.0.0
+Summary: Python package for scanning and advertising     Eddystone-URLs and Eddystone-UID.
+Home-page: https://github.com/forksociety/PyBeacon
+Author: forksociety
+Author-email: os@forksociety.com
+License: GNU Affero General Public License v3 or later (AGPLv3+)
+Download-URL: https://github.com/forksociety/PyBeacon/archive/master.zip
+Description-Content-Type: UNKNOWN
+Description: Python package for scanning and advertising     Eddystone-URLs and Eddystone-UID.
+Keywords: Eddystone,Eddystone URL,Beacon,Raspberry Pi
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Natural Language :: English
+Classifier: Operating System :: POSIX :: Linux
+Classifier: License :: OSI Approved :: GNU Affero General Public License v3 or later (AGPLv3+)
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.6
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.0
+Classifier: Programming Language :: Python :: 3.1
+Classifier: Programming Language :: Python :: 3.2
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5

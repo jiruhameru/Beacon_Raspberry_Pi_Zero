@@ -1,0 +1,11 @@
+README.md
+setup.cfg
+setup.py
+PyBeacon/PyBeacon.py
+PyBeacon/__init__.py
+PyBeacon.egg-info/PKG-INFO
+PyBeacon.egg-info/SOURCES.txt
+PyBeacon.egg-info/dependency_links.txt
+PyBeacon.egg-info/entry_points.txt
+PyBeacon.egg-info/requires.txt
+PyBeacon.egg-info/top_level.txt
